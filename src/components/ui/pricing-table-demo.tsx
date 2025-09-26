@@ -71,9 +71,7 @@ function Default() {
 							icon={Shield}
 						>
 							<a 
-								href="http://localhost:3001/" 
-								target="_blank" 
-								rel="noopener noreferrer"
+								href="/signup" 
 								className="inline-flex items-center justify-center whitespace-nowrap rounded-lg text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-11 px-8 w-full"
 							>
 								Get Started Free
@@ -90,9 +88,7 @@ function Default() {
 							className="after:pointer-events-none after:absolute after:-inset-0.5 after:rounded-[inherit] after:bg-gradient-to-b after:from-violet-500/15 after:to-transparent after:blur-[2px]"
 						>
 							<a 
-								href="http://localhost:3001/" 
-								target="_blank" 
-								rel="noopener noreferrer"
+								href="/signup" 
 								className="inline-flex items-center justify-center whitespace-nowrap rounded-lg text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-11 px-8 w-full rounded-lg border-violet-700/60 bg-violet-600/80 text-white hover:bg-violet-600"
 							>
 								Start Free Trial

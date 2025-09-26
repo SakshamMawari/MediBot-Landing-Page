@@ -10,7 +10,7 @@ function HeroSectionDemo() {
       }}
       description="Medibot provides instant medical guidance, symptom analysis, and healthcare support to rural communities with limited access to doctors. Get 24/7 medical assistance in your local language with offline capabilities."
       ctaText="Start Your Health Journey"
-      ctaHref="http://localhost:3001/"
+      ctaHref="/signup"
       bottomVideo={{
         light: "https://mem0-project.b-cdn.net/Hero%20Vid%20(1).mp4",
         dark: "https://mem0-project.b-cdn.net/Hero%20Vid%20(1).mp4",

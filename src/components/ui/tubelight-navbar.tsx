@@ -94,9 +94,7 @@ export function NavBar({ items, className }: NavBarProps) {
         {/* Right side - Buttons and theme toggle */}
         <div className="flex items-center gap-3">
           <a 
-            href="http://localhost:3001/" 
-            target="_blank" 
-            rel="noopener noreferrer"
+            href="/signup" 
             className="px-5 py-2 text-sm font-medium text-foreground/80 hover:text-primary transition-colors"
           >
             Free Trial

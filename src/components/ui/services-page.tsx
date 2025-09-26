@@ -112,9 +112,7 @@ export function ServicesPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 
-              href="http://localhost:3001/" 
-              target="_blank" 
-              rel="noopener noreferrer"
+              href="/signup" 
               className="px-8 py-4 bg-primary text-primary-foreground rounded-xl font-semibold hover:bg-primary/90 transition-colors inline-block text-center"
             >
               Get Started Now
