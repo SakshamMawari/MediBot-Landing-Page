@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MediBot-Landing-Page/static/css/main.b4b0c74b.css",
+    "main.js": "/MediBot-Landing-Page/static/js/main.8e6c7f41.js",
+    "static/js/453.46510140.chunk.js": "/MediBot-Landing-Page/static/js/453.46510140.chunk.js",
+    "index.html": "/MediBot-Landing-Page/index.html",
+    "main.b4b0c74b.css.map": "/MediBot-Landing-Page/static/css/main.b4b0c74b.css.map",
+    "main.8e6c7f41.js.map": "/MediBot-Landing-Page/static/js/main.8e6c7f41.js.map",
+    "453.46510140.chunk.js.map": "/MediBot-Landing-Page/static/js/453.46510140.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4b0c74b.css",
+    "static/js/main.8e6c7f41.js"
+  ]
+}
